@@ -1,0 +1,21 @@
+{
+  "autoscale.max_workers": {
+    "type": "range",
+    "maxValue": 4
+  },
+
+  "autoscale.min_workers": {
+    "type": "fixed",
+    "value": 1
+  },
+
+  "autotermination_minutes": {
+    "type": "fixed",
+    "value": 60,
+    "hidden": true
+  },
+  "runtime_engine": {
+    "type": "fixed",
+    "value": 12.2
+  }
+}
