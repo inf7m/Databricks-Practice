@@ -3,5 +3,4 @@
 Staging Area phases in databricks
 ![WarehouseDatabricks.png](WarehouseDatabricks.png)
 Visualize the Warehouse in Lakehouse Technology
-
-![DiagramETL.png](DiagramETL.png)
+[Untitled Diagram.pdf](Untitled%20Diagram.pdf)
