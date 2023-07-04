@@ -2,7 +2,7 @@
 
 The most basic "currency"
 
-DBU - Databrucks Unit
+DBU - Databricks Unit
 
 the price of DBU is really depends on which types of workloads we're going to use!!!
 

@@ -1,6 +1,5 @@
-**Warehouse Architecture on Lakehouse**
-![Overview_WarehousePhases.png](Overview_WarehousePhases.png)
-Staging Area phases in databricks
-![WarehouseDatabricks.png](WarehouseDatabricks.png)
-Visualize the Warehouse in Lakehouse Technology
-[Untitled Diagram.pdf](Untitled%20Diagram.pdf)
+# Introduce to Warehouse on DeltaLkae
+
+![Alt text](https://github.com/inf7m/Databricks-Practice/blob/0c62cdacf5649ceb0b28fd5f48b89ea800c03ea1/Warehouse_onDeltaLake/images/Overview_WarehousePhases.png)
+
+# Overview

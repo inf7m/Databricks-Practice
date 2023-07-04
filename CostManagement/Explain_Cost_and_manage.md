@@ -50,9 +50,9 @@ Runtime Engine as “Standard”
 As a cloud-based platform, it will need the following things:
 The price is relied on the Cloud Provider (such as: AWS, GCP, Azure)
 
-Storage
++ Storage
 
-Networking
++ Networking
 
-Serverless Compute
++ Serverless Compute
 
