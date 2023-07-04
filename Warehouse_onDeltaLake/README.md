@@ -9,4 +9,4 @@
 
 ## ETL phases on Databricks
 
-<img src="https://github.com/inf7m/Databricks-Practice/blob/ca029f67042c3bf43e6e1b960f7506312813049a/Warehouse_onDeltaLake/images/ETL-phases.pdf" width="350" alt="ETL phases">
+<img src="https://github.com/inf7m/Databricks-Practice/blob/ca029f67042c3bf43e6e1b960f7506312813049a/Warehouse_onDeltaLake/images/ETL-phases.png" width="350" alt="ETL phases">
